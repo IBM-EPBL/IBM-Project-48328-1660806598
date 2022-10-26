@@ -1,0 +1,36 @@
+                                                                           IDEATION PHASE
+                                                                         PROBLEM STATEMENT
+DATE: 4 October 2022
+TEAM ID: PNT2022TMID51233
+PROJECT NAME: Fertilizer Recommendation System For Plant Disease Prediction
+MAXIMUM MARK: 2 Marks
+
+PROBLEM STATEMENT:
+
+Agriculture is the most important sector in today’s life. Most plants are
+affected by a wide variety of bacterial and fungal diseases. Diseases on plants
+placed a major constraint on the production and a major threat to food security.
+Hence, early and accurate identification of plant diseases is essential to ensure
+high quantity and best quality. In recent years, the number of diseases on plants
+and the degree of harm caused has increased due to the variation in pathogen
+varieties, changes in cultivation methods, and inadequate plant protection
+techniques. An automated system is introduced to identify different diseases on
+plants by checking the symptoms shown on the leaves of the plant. Deep learning
+techniques are used to identify the diseases and suggest the precautions that can
+be taken for those diseases.
+
+I am         The farmer who is trying to cultivating the crops for
+             huge profit and very control in using fertilizer on the
+             crops.
+ 
+I’m trying to Use the recent technologies to avoid disease in crops
+              and trying increase the quantity and quality of crops.
+              But I am unaware of the existing technology that can help
+              me a lot to predict the disease and I don’t know to use
+              the correct fertilizer for disease.
+
+Because       I don’t want to spoil the soil quality and crops quality.
+
+Which makes  I’m not capable of cultivating the crops and
+Me feel      maintaining the quality of land and producing good
+             quality of crops.
